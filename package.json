@@ -1,0 +1,17 @@
+{
+  "name": "rive-js-instancing-artboards",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rive-app/canvas-advanced-single": "2.1.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
